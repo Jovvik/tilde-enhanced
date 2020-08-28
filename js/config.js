@@ -125,6 +125,23 @@ const CONFIG = {
 			icon: 'vk',
 			quickLaunch: false,
 		},
+
+		{
+			category: 'TUM',
+			name: 'Intranet',
+			key: 'tu',
+			url: 'http://campus.tum.de/',
+			color: 'linear-gradient(135deg, #4747c9, #AcAcA6)',
+			icon: 'tumonline',
+		},
+		{
+			category: 'TUM',
+			name: 'Uni-assist',
+			key: 'ua',
+			url: 'https://my.uni-assist.de/',
+			color: 'linear-gradient(135deg, #4747c9, #2c2c36)',
+			icon: 'uni-assist',
+		},
 	],
 
 	/**
